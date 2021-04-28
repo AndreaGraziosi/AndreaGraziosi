@@ -11,7 +11,7 @@ You can find my portfolio at [Andrea Graziosi at MakeSchool](https://www.makesch
 ->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaGraziosi&layout=compact)](https://github.com/AndreaGraziosi/github-readme-stats)<-
 
 <h4 align="center"> Skills & Tools: </h4>
-
+<hr>
 <p align="center">
   <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -49,4 +49,4 @@ You can find my portfolio at [Andrea Graziosi at MakeSchool](https://www.makesch
   </a>
 </p>
 
-<hr>
+
