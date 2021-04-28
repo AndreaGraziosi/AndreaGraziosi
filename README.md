@@ -1,4 +1,4 @@
-Hi! I'm Andrea <img src="https://raw.githubusercontent.com/AndreaGraziosi/AndreaGraziosi/master/wave.gif" width="30px">
+**Hi! I'm Andrea** <img src="https://raw.githubusercontent.com/AndreaGraziosi/AndreaGraziosi/master/wave.gif" width="30px">
 Back end Dev living in San Franscisco Bay area finishing a BS in Computer Science
 ***
 
@@ -8,7 +8,7 @@ Back end Dev living in San Franscisco Bay area finishing a BS in Computer Scienc
 You can find my portfolio at [Andrea Graziosi at MakeSchool](https://www.makeschool.com/portfolio/andrea-graziosi) articles, [Medium](https://medium.com/@andrea.graziosi) and [linked in](https://www.linkedin.com/in/andrea-g-graziosi/).
 ***
 
-->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaGraziosi&layout=compact)](https://github.com/AndreaGraziosi/github-readme-stats)<-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaGraziosi&layout=compact)](https://github.com/AndreaGraziosi/github-readme-stats)
 
 <h4 align="center"> Skills & Tools: </h4>
 <hr>
