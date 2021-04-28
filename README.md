@@ -7,7 +7,7 @@ Hi! I'm Andrea <img src="https://raw.githubusercontent.com/AndreaGraziosi/Andrea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaGraziosi&layout=compact)](https://github.com/AndreaGraziosi/github-readme-stats)
 
 ***
-<p align="center">You can find my portfolio at [Andrea Graziosi at MakeSchool](https://www.makeschool.com/portfolio/andrea-graziosi) articles, [Medium](https://medium.com/@andrea.graziosi) and [linked in](https://www.linkedin.com/in/andrea-g-graziosi/).</p>
+->You can find my portfolio at [Andrea Graziosi at MakeSchool](https://www.makeschool.com/portfolio/andrea-graziosi) articles, [Medium](https://medium.com/@andrea.graziosi) and [linked in](https://www.linkedin.com/in/andrea-g-graziosi/).<-
 
 
 <h4 align="center"> Skills & Tools: </h4>
