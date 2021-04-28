@@ -2,7 +2,7 @@ Hi! I'm Andrea <img src="https://raw.githubusercontent.com/AndreaGraziosi/Andrea
 I am a back end Engineer living the san Francisco Bay Area, finishing my computer Science degree at Makeschool 
 ***
 
-[![Header](https://raw.githubusercontent.com/AndreaGraziosi/AndreaGRaziosi/master/rio-de-janeiro-night-panorama-1200x627.jpeg "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/AndreaGraziosi/AndreaGraziosi/master/rio-de-janeiro-night-panorama-1200x627.jpeg "Header")](https://andreagraziosi.github.io/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaGraziosi&layout=compact)](https://github.com/AndreaGraziosi/github-readme-stats)
 
