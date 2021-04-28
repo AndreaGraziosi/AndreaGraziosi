@@ -10,7 +10,7 @@ Hi! I'm Andrea <img src="https://raw.githubusercontent.com/AndreaGraziosi/Andrea
 You can find my portfolio at [Andrea Graziosi at MakeSchool](https://www.makeschool.com/portfolio/andrea-graziosi) articles, [Medium](https://medium.com/@andrea.graziosi) and [linked in](https://www.linkedin.com/in/andrea-g-graziosi/).
 
 
-<h1 align="center"> Skills & Tools: </h1>
+<h3 align="center"> Skills & Tools: </h3>
 
 <p align="center">
   <a href="https://www.javascript.com/">
@@ -21,9 +21,6 @@ You can find my portfolio at [Andrea Graziosi at MakeSchool](https://www.makesch
   </a>
     <a href="https://www.w3schools.com/css/">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  </a>
-    <a href="https://www.cplusplus.com/doc/tutorial/">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   </a>
     <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -44,8 +41,8 @@ You can find my portfolio at [Andrea Graziosi at MakeSchool](https://www.makesch
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
   </a>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
+  <a href="https://python.org/">
+    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3?color=orange&label=Pyhton&style=flat-square">
   </a>
   <a href="https://www.sqlite.org/index.html">
     <img src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white">
