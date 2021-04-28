@@ -42,7 +42,7 @@ You can find my portfolio at [Andrea Graziosi at MakeSchool](https://www.makesch
     <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
   </a>
   <a href="https://python.org/">
-    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3?color=orange&label=Pyhton&style=flat-square">
+    <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3?color=orange&label=Pyhton&style=for-the-badge">
   </a>
   <a href="https://www.sqlite.org/index.html">
     <img src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white">
